@@ -36,8 +36,4 @@
 
 <p align="left"></p>
 
-###
 
-<p align="left">Hello World!!</p>
-
-###

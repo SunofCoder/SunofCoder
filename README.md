@@ -32,24 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" alt="ionic logo"  />
 </div>
 
-###
 
-<p align="left"></p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<img src="https://raw.githubusercontent.com/Sunofcoder/Sunofcoder/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-</div>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/senemu" target="_blank">

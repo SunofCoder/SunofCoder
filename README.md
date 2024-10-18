@@ -9,8 +9,11 @@
 <h2 align="left">About me</h2>
 
 ###
+ Current Role: Software Engineer 
 
-<p align="left">📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">📚  Current Role: Software Engineer   <br>🎯 Goals: ...
+  <br>🎲 Fun fact: ... 
+</p>
 
 ###
 
